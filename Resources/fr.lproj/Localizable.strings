@@ -1,0 +1,68 @@
+/**
+ * Elevator CEO is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * any later version.
+ *  
+ * Elevator CEO is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ * GNU General Public License for more details.
+ *  
+ * You should have received a copy of the GNU General Public License
+ * along with Elevator CEO. If not, see 
+ * https://github.com/unsaturated/ElevatorCEO/blob/master/LICENSE.
+ */
+
+"ELEVATOR_CEO" = "Elevator CEO";
+"PLAY_MENU" = "JOUEZ";
+"TUTORIAL_MENU" = "TUTORIEL";
+"SCORES_MENU" = "SCORES";
+"MORE_MENU" = "PLUS";
+"FREE_BANNER" = "GRATUIT!";
+"SYNERGY_LABEL" = "SYNERGIE";
+"PENSION_LABEL" = "PENSION";
+"LEVEL_LABEL" = "NIVEAU";
+"FLOORS_LABEL" = "ÉTAGES";
+"BACK_MENU" = "RETOUR";
+"CREDITS_GAME_DESIGN" = "Conception et Développement de Jeux";
+"CREDITS_AUDIO" = "Son";
+"CREDITS_ADDITIONAL" = "Soutien Supplémentaire";
+"CREDITS_GAME_ENGINE" = "Game Engine";
+"CREDITS_TYPOGRAPHY" = "Typographie";
+"PAUSE_CONTINUE" = "CONTINUER";
+"PAUSE_RETIRE" = "RETIRER";
+"PAUSE_CONFIRM" = "OUI";
+"GC_ANONYMOUS" = "Anonyme";
+"NO_HIGH_SCORES" = "Vous devez jouer à un jeu!";
+"TOP_THREE_SCORE" = "TOP 3!";
+"GAME_CENTER" = "GAME CENTER";
+"REMOVE_ADS" = "Retirer Annonces";
+"RESTORE_PURCHASE" = "Restaurer Achat";
+
+// -----------------Maximum tutorial line length
+// --------------------------------------------^
+"TIP_INTRO_LINE1" = "Bienvenue au Elevator CEO!"; // Blue Elevator
+"TIP_INTRO_LINE2" = "Ceci est votre ascenseur.";
+"TIP_INTRO_LINE3" = "Cinq autres sont avec vous.";
+"TIP_INTRO_LINE4" = "Ces cinq doit sortir.";
+
+"TIP_BUTTONS_LINE1" = "Déplacez votre ascenseur."; // Elevator Buttons
+"TIP_BUTTONS_LINE2" = "Appuyez sur pour déplacer.";
+"TIP_BUTTONS_LINE3" = "Tenez à se déplacer plus loin.";
+"TIP_BUTTONS_LINE4" = "Surveillez votre synergie!";
+
+"TIP_GREEN_LINE1" = "Ascenseurs avoir des espaces."; // Green Elevator
+"TIP_GREEN_LINE2" = "Déplacer vers le même étage.";
+"TIP_GREEN_LINE3" = "Appuyez sur l'ascenseur vert.";
+"TIP_GREEN_LINE4" = "Transfert trois passagers.";
+
+"TIP_GOAL_LINE1" = "C'est votre objectif."; // Blue Elevator (Goal)
+"TIP_GOAL_LINE2" = "Tous les passagers ont disparu.";
+"TIP_GOAL_LINE3" = "Le reste, c'est vous.";
+"TIP_GOAL_LINE4" = "Maintenant attendre la CEO...";
+
+"TIP_CEO_LINE1" = "Le CEO d'ascenseur est rouge."; // Red Elevator
+"TIP_CEO_LINE2" = "Il se rend une fois par niveau.";
+"TIP_CEO_LINE3" = "Transfert à son ascenseur.";
+"TIP_CEO_LINE4" = "Ne manquez pas votre chance!";

@@ -1,0 +1,68 @@
+/**
+ * Elevator CEO is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * any later version.
+ *  
+ * Elevator CEO is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ * GNU General Public License for more details.
+ *  
+ * You should have received a copy of the GNU General Public License
+ * along with Elevator CEO. If not, see 
+ * https://github.com/unsaturated/ElevatorCEO/blob/master/LICENSE.
+ */
+
+"ELEVATOR_CEO" = "Elevator CEO";
+"PLAY_MENU" = "PLAY";
+"TUTORIAL_MENU" = "TUTORIAL";
+"SCORES_MENU" = "SCORES";
+"MORE_MENU" = "MORE";
+"FREE_BANNER" = "FREE!";
+"SYNERGY_LABEL" = "SYNERGY";
+"PENSION_LABEL" = "PENSION";
+"LEVEL_LABEL" = "LEVEL";
+"FLOORS_LABEL" = "FLOORS";
+"BACK_MENU" = "BACK";
+"CREDITS_GAME_DESIGN" = "Game Design and Development";
+"CREDITS_AUDIO" = "Sound";
+"CREDITS_ADDITIONAL" = "Additional Support";
+"CREDITS_GAME_ENGINE" = "Game Engine";
+"CREDITS_TYPOGRAPHY" = "Typography";
+"PAUSE_CONTINUE" = "PLAY";
+"PAUSE_RETIRE" = "RETIRE";
+"PAUSE_CONFIRM" = "OK";
+"GC_ANONYMOUS" = "Anonymous";
+"NO_HIGH_SCORES" = "You should play a game!";
+"TOP_THREE_SCORE" = "TOP 3!";
+"GAME_CENTER" = "GAME CENTER";
+"REMOVE_ADS" = "Remove Ads";
+"RESTORE_PURCHASE" = "Restore Purchase";
+
+// -----------------Maximum tutorial line length
+// --------------------------------------------^
+"TIP_INTRO_LINE1" = "Welcome to Elevator CEO!"; // Blue Elevator
+"TIP_INTRO_LINE2" = "This is your elevator.";
+"TIP_INTRO_LINE3" = "Five others are with you.";
+"TIP_INTRO_LINE4" = "Those five must get out.";
+
+"TIP_BUTTONS_LINE1" = "Move your elevator."; // Elevator Buttons
+"TIP_BUTTONS_LINE2" = "Tap to move once.";
+"TIP_BUTTONS_LINE3" = "Press to move farther.";
+"TIP_BUTTONS_LINE4" = "Watch your synergy!";
+
+"TIP_GREEN_LINE1" = "Elevators have free space."; // Green Elevator
+"TIP_GREEN_LINE2" = "Move to the same floor.";
+"TIP_GREEN_LINE3" = "Tap the green elevator.";
+"TIP_GREEN_LINE4" = "Transfer three passengers.";
+
+"TIP_GOAL_LINE1" = "This is your goal."; // Blue Elevator (Goal)
+"TIP_GOAL_LINE2" = "All passengers are gone.";
+"TIP_GOAL_LINE3" = "One person left inside is you.";
+"TIP_GOAL_LINE4" = "Now wait for the CEO...";
+
+"TIP_CEO_LINE1" = "The CEO's elevator is red."; // Red Elevator
+"TIP_CEO_LINE2" = "He visits once per level.";
+"TIP_CEO_LINE3" = "Transfer to his elevator.";
+"TIP_CEO_LINE4" = "Don't miss your chance!";
