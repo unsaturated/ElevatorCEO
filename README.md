@@ -2,7 +2,7 @@
 ## Overview
 Elevator CEO was an iOS game first published to the App Store on October 1, 2012. The last release of the game was published on January 9, 2015. Although it was downloaded thousands of times, I decided to cancel my App Developer membership, thereby ending its tenure on the App Store on April 28, 2016.
 
-Read about the game's history, see  in detail on my website (https://matt.unsaturated.com/elevatorceo).
+Read about the game's history and check out screen shots [on my website](https://matt.unsaturated.com/elevatorceo).
 
 ## What's included or excluded from this repo?
 The code here is necessary but not sufficient to actually run the game. You'll need to bring your own audio, graphics, and fonts. What's included here is the logic for the game itself.
